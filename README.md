@@ -1,0 +1,1 @@
+# Reduction-of-Torque-Ripples-in-Switched-Reluctance-Motor-SRM-using-PID-controller
